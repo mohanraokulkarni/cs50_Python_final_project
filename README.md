@@ -3,6 +3,7 @@
 🧾 Simple Budget Tracker
 
  Video Demo: [[URL HERE](https://youtu.be/f6C_qZzElM0)]
+
 📄 Description:
 
 The **Simple Budget Tracker** is a command-line Python application that helps you manage your personal finances by adding expenses, recording income, and viewing a summary of your financial status. The project uses file I/O operations to save and load data, ensuring your records persist between program runs. 🗂️
