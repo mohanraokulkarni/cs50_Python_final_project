@@ -1,10 +1,10 @@
 # cs50_Python_final_project
 
-🧾 **Personal Finance Tracker**
+🧾 **Simple Budget Tracker**
 
 📄 **Description:**
 
-The **Personal Finance Tracker** is a Python application with a graphical user interface (GUI) designed to help you manage your personal finances. This application allows you to add expenses, record income, and view a summary of your financial status using an interactive and user-friendly GUI. Data is saved and loaded from a text file to persist your records between program runs. 🗂️
+The **Simple Budget Tracker** is a Python application with a graphical user interface (GUI) designed to help you manage your personal finances. This application allows you to add expenses, record income, and view a summary of your financial status using an interactive and user-friendly GUI. Data is saved and loaded from a text file to persist your records between program runs. 🗂️
 
 ![Application Screenshot](gui_img.png)
 ✨ **Features:**
