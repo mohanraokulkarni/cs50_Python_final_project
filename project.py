@@ -68,7 +68,7 @@ def load_data():
 
 # Creating the main application window
 root = Tk()
-root.title("Simple Budget Tracker")
+root.title("Personal Finance Tracker")
 root.configure(bg="#f0f0f0")  # Background color for the main window
 
 # Make the root window resizable
